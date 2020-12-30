@@ -7,7 +7,7 @@ HOW TO DOWNLOAD: Download the file by clicking on the GREEN "Code" buttom above.
 INSTRUCTIONS/ HOW TO PLAY: Press 'enter' to start the game. After the timer counts down from 3, press the spacebar to make the spaceship "hop". Time the pressing of the spacebar right so that you stay floating and don't hit the alien apartments! See how far you can go! 
 
 This is what the Title Screen looks like
-![Start](Title Screen.PNG)
+![Start](Title Screen.png)
 
 This is when the game first starts
 !.[Begin].(Gameplay1.PNG)
