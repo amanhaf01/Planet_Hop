@@ -10,13 +10,13 @@ This is what you see when you first start the game
 ![Start](https://github.com/amanhaf01/Planet_Hop/blob/main/Title%20Screen.PNG)
 
 This is when the game first starts
-!.[Begin].(Gameplay1.PNG)
+![Begin](https://github.com/amanhaf01/Planet_Hop/blob/main/Gameplay1.PNG)
 
 This is how the main gameplay looks like
-!.[Game].(Gameplay2.PNG)
+![Game](https://github.com/amanhaf01/Planet_Hop/blob/main/Gameplay2.PNG)
 
 This is what the Score Screen or end of the game looks like
-!.[End].(ScoreScreen.PNG)
+![End](https://github.com/amanhaf01/Planet_Hop/blob/main/ScoreScreen.PNG)
 
 V 1.1
 
