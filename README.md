@@ -18,7 +18,7 @@ This is how the main gameplay looks like
 This is what the Score Screen or end of the game looks like
 ![End](https://github.com/amanhaf01/Planet_Hop/blob/main/ScoreScreen.PNG)
 
-V 1.1
+Version 1
 
 ENJOY!
 
